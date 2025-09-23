@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2008",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Industrial Relations and Human Resource Management"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Labor Economics"
+    ]
+  ],
+  "legacy_uid": "fdde915d-a072-c1a9-4ac9-86c273ba3866",
+  "instructors": {
+    "content": [
+      "efb69e94-eaea-4767-5519-415b4e80043a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e12e9dc0-f73f-7af6-2941-505e3ed59c50",
+    "website": "15-676-work-employment-and-industrial-relations-theory-spring-2008"
+  },
+  "course_title": "Work, Employment, and Industrial Relations Theory",
+  "course_description": "This seminar will cover the multi-disciplinary theoretical and empirical foundations of research on work, employment, labor markets, and industrial relations. We begin by tracing the historical development of theory and research in the field, paying special attention to how the normative premises, concepts, and methodological traditions of industrial relations compare to those of other disciplines that contribute to the study of work and employment relations. Then we will review a number of current theoretical and policy debates shaping the field. This will be followed by a series of modules introducing different disciplinary perspectives used to study work and employment issues today. Emphasis will be given to recent research from different industries that illustrate the mix of methods\u2014field work, qualitative and quantitative data collection and analysis, etc.\u2014we encourage in this field of study.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.676",
+  "course_image_thumbnail": {
+    "content": "95a2c288-ecc5-b70e-74a5-2de4aed68a44",
+    "website": "15-676-work-employment-and-industrial-relations-theory-spring-2008"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "d6cfba9c-3212-40db-bc0c-05fbae84985f",
+  "site_short_id": "15.676-spring-2008",
+  "site_url_path": "courses/15-676-work-employment-and-industrial-relations-theory-spring-2008",
+  "title": "Course Metadata"
+}

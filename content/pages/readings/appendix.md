@@ -14,7 +14,7 @@ uid: 4bcb4c4e-519e-59ed-3c5d-37544e45ff16
 Additional References for Session 6: Sociological Perspectives on the Employment Relationship
 ---------------------------------------------------------------------------------------------
 
-{{% resource_link "1477a750-c461-4e57-9343-af6823bf754d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Maurice, Marc, François Sellier, and Jean-Jacques Silvestre. _The Social Foundations of Industrial Power: A Comparison of France and Germany_. Cambridge, MA: MIT Press, 1986. ISBN: 9780262132138.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262132138) Maurice, Marc, François Sellier, and Jean-Jacques Silvestre. _The Social Foundations of Industrial Power: A Comparison of France and Germany_. Cambridge, MA: MIT Press, 1986. ISBN: 9780262132138.
 
 ### Institutional Theory
 

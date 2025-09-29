@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the list of required books for the text and information
   on readings assigned for the lecture sessions.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

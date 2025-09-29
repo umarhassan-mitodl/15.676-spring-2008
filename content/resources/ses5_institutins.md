@@ -4,6 +4,8 @@ description: Lecture notes on institutional and internal labor market theory.
 file: /courses/15-676-work-employment-and-industrial-relations-theory-spring-2008/9bb8f2568cda036414a58974d945c8fc_ses5_institutins.pdf
 file_size: 164549
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

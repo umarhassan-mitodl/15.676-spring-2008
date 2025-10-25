@@ -4,8 +4,6 @@ description: Lecture notes with five negotiation puzzles on industrial relations
 file: /courses/15-676-work-employment-and-industrial-relations-theory-spring-2008/ce95f971588a7a4e206242d1cb19c56b_ses10_puzzles.pdf
 file_size: 166777
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

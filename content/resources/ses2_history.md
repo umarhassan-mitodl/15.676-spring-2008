@@ -5,8 +5,6 @@ description: Lecture notes on the evolution of the field of industrial relations
 file: /courses/15-676-work-employment-and-industrial-relations-theory-spring-2008/98a11539b315eb57a44dfb220aef285e_ses2_history.pdf
 file_size: 191609
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

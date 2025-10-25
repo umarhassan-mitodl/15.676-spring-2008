@@ -5,8 +5,6 @@ description: Lecture notes on the bases of pluralist/institutional industrial re
 file: /courses/15-676-work-employment-and-industrial-relations-theory-spring-2008/f73ec80b52ec10abe3cd5b158568b313_ses3_theory.pdf
 file_size: 174890
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

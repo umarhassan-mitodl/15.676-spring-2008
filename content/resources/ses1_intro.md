@@ -5,8 +5,6 @@ description: Lecture notes on historical evolution, contemporary issues and deba
 file: /courses/15-676-work-employment-and-industrial-relations-theory-spring-2008/11159fcc39372ec91b45bb8c004db061_ses1_intro.pdf
 file_size: 173903
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

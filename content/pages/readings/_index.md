@@ -16,7 +16,7 @@ Whitfield, Keith, and George Strauss, eds. _Researching the World of Work_. Itha
 
 Kaufman, Bruce. _The Origins & Evolution of Industrial Relations in the United States_. Ithaca, NY: ILR Press, 1992. ISBN: 9780875461922.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262650625) Osterman, Paul, Thomas Kochan, Richard Locke, and Michael Piore. _Working in America: A Blueprint for the New Labor Market_. Cambridge, MA: MIT Press, 2002. ISBN: 9780262650625.
+{{% resource_link "3f3b489d-54a7-4daf-a546-91333198b029" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Osterman, Paul, Thomas Kochan, Richard Locke, and Michael Piore. _Working in America: A Blueprint for the New Labor Market_. Cambridge, MA: MIT Press, 2002. ISBN: 9780262650625.
 
 Budd, John. _Employment with a Human Face_. Ithaca, NY: ILR Press, 2006. ISBN: 9780801472602.
 
